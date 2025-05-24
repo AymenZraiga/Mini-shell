@@ -36,7 +36,6 @@ It supports several core features found in traditional UNIX shells.
 - Implement redirection (`>`, `<`)
 - Add support for pipes (`|`)
 - Build command history
-- Improve prompt styling
 
 ---
 
